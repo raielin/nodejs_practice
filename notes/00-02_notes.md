@@ -19,4 +19,21 @@ NodeJS - Launched in 2009.
 Using Chrome throughout course, but can use any browser.
 
 ## Lecture 4
+All about Terminal/Bash and command line basics.
+
+## Lecture 5
+Windows version of Lecture 4
+
+## Lecture 6
+First Node app. Hello World example.
+
+Write program in `.js` file.
+*See file: node-basics/hello-world.js*
+
+Run program in terminal with `node` command.
+> `$ node <FILENAME>`
+
+
+
+
 
