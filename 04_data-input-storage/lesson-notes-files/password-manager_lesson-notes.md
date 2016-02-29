@@ -40,6 +40,7 @@ Including third party modules in your app:
     > `require` is a built-in node function that allows us to access installed node modules.
     > in `app.js` assign a variable to the function `requre(node-persist)`
     > Now we can access everything that node-persist offers by utilizing the newly defined object.
+    > node-persist stores json files of key-value pairs in a directory called 'persist' in the app's root directory
 
 Can always create `package.json` manually without running `npm init`. `npm init` is only a convenience but isn't necessary.
 
