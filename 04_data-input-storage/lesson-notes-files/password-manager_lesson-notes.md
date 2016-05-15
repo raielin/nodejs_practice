@@ -44,3 +44,5 @@ Including third party modules in your app:
 
 Can always create `package.json` manually without running `npm init`. `npm init` is only a convenience but isn't necessary.
 
+Install `yargs` npm module to help get input from user in command line.
+
